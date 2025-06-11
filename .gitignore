@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data
+data/
+.env
+
+# Streamlit logs
+.streamlit/
+
+# Mac system files
+.DS_Store
